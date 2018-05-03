@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: edu.kit.ipd.jplag:scheme:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/kit/ipd/jplag/scheme/0.0.1-SNAPSHOT/scheme-0.0.1-20170428.122721-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/kit/ipd/jplag/scheme/0.0.1-SNAPSHOT/scheme-0.0.1-20170428.122721-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/kit/ipd/jplag/scheme/0.0.1-SNAPSHOT/scheme-0.0.1-20170428.122721-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

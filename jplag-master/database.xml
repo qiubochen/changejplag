@@ -1,0 +1,6 @@
+<jplag.qiubochenutil.MydatabaseBean>
+  <username>root</username>
+  <password>Mortihoo123</password>
+  <ip>139.199.84.127</ip>
+  <port>:3306</port>
+</jplag.qiubochenutil.MydatabaseBean>
